@@ -20,5 +20,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 5. A.M. Sirunyan et al. (CMS Collaboration), “The Phase-2 Upgrade of the CMS Level-1 Trigger”, [CERN-LHCC-2020-004; CMS-TDR-021](https://cds.cern.ch/record/2714892?ln=en) 
 
 ## Physics Lectures
+1. [Video lectures on Einstein's special theory of relativity](https://www.youtube.com/playlist?list=PLraSLxeuWaBq4dytL-4qSoeGkLdX2An3A)
+2. [Introductory video lectures on particle physics](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
 
 ## Outreach Activities
