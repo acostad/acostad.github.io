@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Prof. Darin Acosta's Research Program & Teaching
+![DA image](Darin_Acosta_photo_cms-sm.jpeg)
+Documentation about the research program of Prof. Darin Acosta
 
-You can use the [editor on GitHub](https://github.com/acostad/acostad.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Bio
+I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) as well on future collider facilities.
+- [Curriculum Vitae](Acosta-CV-2.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Projects
+- L1 Muon Trigger of CMS
+  - Endcap Muon Track-Finder [Documentation](https://github.com/jiafulow/emtf-resources-page)
+- Muon-Ion Collider concept
 
-### Markdown
+## Recent publications
+1. D. Acosta, E. Barberis, N. Hurley, W. Li, O. Miguel Colin, D. Wood, X. Zuo, “The Potential of a TeV-Scale Muon-Ion Collider”, [arXiv:2203.06258](https://arxiv.org/abs/2203.06258) (2022)
+2. D. Acosta and W. Li, “A Muon-Ion Collider at BNL: the future QCD frontier and path to a new energy frontier of muon-antimuon colliders”, [Nuclear Inst. and Methods in Physics Research A 1027 (2022) 166334](https://doi.org/10.1016/j.nima.2022.166334)
+3. A.M. Sirunyan et al. (CMS Collaboration), “Evidence for Higgs boson decay to a pair of muons”, [J. High Energy Phys. 01 (2021) 148](https://doi.org/10.1007/JHEP01(2021)148)
+4. A.M. Sirunyan et al. (CMS Collaboration), “Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV”, [Journal of Instrumentation, 15, P10017 (2020)](https://doi.org/10.1088/1748-0221/15/10/P10017)
+5. A.M. Sirunyan et al. (CMS Collaboration), “The Phase-2 Upgrade of the CMS Level-1 Trigger”, [CERN-LHCC-2020-004; CMS-TDR-021](https://cds.cern.ch/record/2714892?ln=en) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Physics Lectures
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acostad/acostad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Outreach Activities
