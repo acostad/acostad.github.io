@@ -23,4 +23,5 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 1. [Introductory video lectures on Einstein's special theory of relativity](https://www.youtube.com/playlist?list=PLraSLxeuWaBq4dytL-4qSoeGkLdX2An3A)
 2. [Introductory video lectures on particle physics](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
 
-## Outreach Activities
+## Broader Activities & Outreach
+- [U.S. LHC Users Association](http://www.uslua.org/)
