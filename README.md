@@ -25,3 +25,4 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 
 ## Broader Activities & Outreach
 - [U.S. LHC Users Association](http://www.uslua.org/)
+  - [New student orientation to CERN](NewStudentOrientationAtCERN.pdf) 
