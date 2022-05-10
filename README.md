@@ -1,6 +1,4 @@
-# Prof. Darin Acosta's Research Program & Teaching
 ![DA image](Darin_Acosta_photo_cms-sm.jpeg)
-Documentation about the research program of Prof. Darin Acosta
 
 ## Bio
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) as well on future collider facilities.
