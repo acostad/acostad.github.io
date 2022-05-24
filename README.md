@@ -8,8 +8,9 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - Presented the muon-ion collider concept at the [DIS 2022](https://indico.cern.ch/event/1072533/) conference in Santiago de Compostela, Spain (May 2022) 
 
 ## Research Projects
-- L1 Muon Trigger of CMS
-  - Endcap Muon Track-Finder [Documentation](https://github.com/jiafulow/emtf-resources-page)
+- Trigger and Data Acquisition systems
+  - L1 Muon Trigger of CMS
+    - Endcap Muon Track-Finder [Documentation](https://github.com/jiafulow/emtf-resources-page)
 - Muon-Ion Collider concept
 
 ## Recent publications
@@ -22,6 +23,10 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 ## Physics Lectures
 1. [Introductory video lectures on Einstein's special theory of relativity](https://www.youtube.com/playlist?list=PLraSLxeuWaBq4dytL-4qSoeGkLdX2An3A)
 2. [Introductory video lectures on particle physics](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
+3. [Ordering Muons off the Collider Menu for Measurement & Discovery]()
+
+## Instrumentation Lectures
+1. [Overview of Trigger and Data Acquisition systems]()
 
 ## Broader Activities & Outreach
 - [U.S. LHC Users Association](http://www.uslua.org/)
