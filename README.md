@@ -23,7 +23,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 ## Physics Lectures
 1. [Introductory video lectures on Einstein's special theory of relativity](https://www.youtube.com/playlist?list=PLraSLxeuWaBq4dytL-4qSoeGkLdX2An3A)
 2. [Introductory video lectures on particle physics](https://www.youtube.com/playlist?list=PLraSLxeuWaBonYBREbC8mbv6_mpIOQ50A)
-3. [Ordering Muons off the Collider Menu for Measurement & Discovery](https://github.com/acostad/acostad.github.io/blob/main/MuonsForDiscovery-Colloq-Acosta.pdf)
+3. Colloquium slides: ["Ordering Muons off the Collider Menu for Measurement & Discovery"](https://github.com/acostad/acostad.github.io/blob/main/MuonsForDiscovery-Colloq-Acosta.pdf)
 
 ## Instrumentation Lectures
 1. [Overview of Trigger and Data Acquisition systems](https://github.com/acostad/acostad.github.io/blob/main/TriggerOverviewLecture.pdf)
