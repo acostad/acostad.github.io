@@ -5,7 +5,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - [Curriculum Vitae](Acosta-CV-2.pdf)
 
 ## News
-- Presented the muon-ion collider concept at the [DIS 2022](https://indico.cern.ch/event/1072533/) conference in Santiago de Compostela, Spain (May 2022) 
+- Presented the muon-ion collider concept at the [DIS 2022](https://indico.cern.ch/event/1072533/) conference in Santiago de Compostela, Spain (May 2022). [Presentation](https://indico.cern.ch/event/1072533/contributions/4779228/attachments/2435658/4171607/DIS-MuIC-Acosta2.pdf) 
 
 ## Research Projects
 - Trigger and Data Acquisition systems
