@@ -1,4 +1,4 @@
-## Advice on Applying to Graduate School in Physics
+## Advice on Applying to Graduate School in Physics, by D.Acosta
 - Graduate school is for a specific apprenticeship. Outreach and extra curricular activities can and do look good, but you don't have to overdo it (unless applying to medical school). It is not like applying to undergraduate programs.
    - 	The committee will look at how you did in your physics and math classes, and any research experience, to see if you have a good chance to succeed
    - 	Everything else is bonus
