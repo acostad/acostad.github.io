@@ -9,7 +9,7 @@
 - Larger departments have more areas of research, so are better if you decide to change your mind
    - But still, your area of interest should be among those listed
 	- Ultimately you end up choosing an advisor you can work with, and sometimes that may not match with your initial interests
-- Priot research experience is definitely a plus. Get involved now.
+- Prior research experience is definitely a plus. Get involved now if you haven't already.
 - All departments will have some quota they can admit. Some might be fine-grained into each subdiscipline (like Rice P&A), so be clear which areas you are applying to), and for others it is overall (like U.Florida). For the latter, you may be able to get in and have a chance for field X, but be careful. Best to ask a department member in that field if they are taking students before you accept an offer)
 - Make sure your subdiscipline interest is in the specific department. 
 - Apply to multiple places, from "reach" to  "safety"
