@@ -24,7 +24,6 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 
 ## Physics Lectures
 1. [Introductory lectures on Einstein's theories of relativity](https://github.com/acostad/Lectures/blob/main/RelativityVideos.md)
-3. [Introductory video lectures on Einstein's general theory of relativity](https://www.youtube.com/playlist?list=PLraSLxeuWaBoTWrG1endtqCVsiSeKlmJb)
 4. [Introductory lectures on particle physics](https://github.com/acostad/Lectures/blob/main/ParticlePhysicsIntro.md)
 5. Colloquium slides: ["Ordering Muons off the Collider Menu for Measurement & Discovery"](https://github.com/acostad/acostad.github.io/blob/main/MuonsForDiscovery-Colloq-Acosta.pdf)
 
