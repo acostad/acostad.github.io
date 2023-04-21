@@ -23,7 +23,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 6. A.M. Sirunyan et al. (CMS Collaboration), “The Phase-2 Upgrade of the CMS Level-1 Trigger”, [CERN-LHCC-2020-004; CMS-TDR-021](https://cds.cern.ch/record/2714892?ln=en) 
 
 ## Physics Lectures
-1. [Introductory lectures on Einstein's theories of relativity](https://github.com/acostad/Lectures/blob/main/Lectures/RelativityVideos.md)
+1. [Introductory lectures on Einstein's theories of relativity](https://github.com/acostad/Lectures/blob/main/RelativityVideos.md)
 3. [Introductory video lectures on Einstein's general theory of relativity](https://www.youtube.com/playlist?list=PLraSLxeuWaBoTWrG1endtqCVsiSeKlmJb)
 4. [Introductory lectures on particle physics](https://github.com/acostad/Lectures/blob/main/ParticlePhysicsIntro.md)
 5. Colloquium slides: ["Ordering Muons off the Collider Menu for Measurement & Discovery"](https://github.com/acostad/acostad.github.io/blob/main/MuonsForDiscovery-Colloq-Acosta.pdf)
