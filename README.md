@@ -28,10 +28,12 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 1. [Introductory lectures on Einstein's theories of relativity](https://github.com/acostad/Lectures/blob/main/RelativityVideos.md)
 4. [Introductory lectures on particle physics](https://github.com/acostad/Lectures/blob/main/ParticlePhysicsIntro.md)
 5. Colloquium slides: ["Ordering Muons off the Collider Menu for Measurement & Discovery"](https://github.com/acostad/acostad.github.io/blob/main/MuonsForDiscovery-Colloq-Acosta.pdf)
+6. [List of physics demos for teaching at Rice](https://github.com/acostad/Demos/blob/main/DemoListRicePandA.md)
 
 ## Instrumentation Lectures
 1. [Overview of Trigger and Data Acquisition systems](https://github.com/acostad/acostad.github.io/blob/main/TriggerOverviewLecture.pdf)
 
 ## Broader Activities & Outreach
 - [U.S. LHC Users Association](http://www.uslua.org/)
-  - [New student orientation to CERN](NewStudentOrientationAtCERN.pdf) 
+  - [New student orientation to CERN](NewStudentOrientationAtCERN.pdf)
+- [Bonner Lab outreach activities, including QuarkNet](https://star.rice.edu/outreach/)
