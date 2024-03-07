@@ -17,12 +17,13 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - Muon-Ion Collider concept
 
 ## Recent publications
-1. D. Acosta, A. Deiana, W. Ketchum, "Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems", [arXiv:2209.03794](https://arxiv.org/abs/2209.03794) (2022)
-2. D. Acosta, E. Barberis, N. Hurley, W. Li, O. Miguel Colin, D. Wood, X. Zuo, “The Potential of a TeV-Scale Muon-Ion Collider”, [arXiv:2203.06258](https://arxiv.org/abs/2203.06258) (2022)
-3. D. Acosta and W. Li, “A Muon-Ion Collider at BNL: the future QCD frontier and path to a new energy frontier of muon-antimuon colliders”, [Nuclear Inst. and Methods in Physics Research A 1027 (2022) 166334](https://doi.org/10.1016/j.nima.2022.166334)
-4. A.M. Sirunyan et al. (CMS Collaboration), “Evidence for Higgs boson decay to a pair of muons”, [J. High Energy Phys. 01 (2021) 148](https://doi.org/10.1007/JHEP01(2021)148)
-5. A.M. Sirunyan et al. (CMS Collaboration), “Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV”, [Journal of Instrumentation, 15, P10017 (2020)](https://doi.org/10.1088/1748-0221/15/10/P10017)
-6. A.M. Sirunyan et al. (CMS Collaboration), “The Phase-2 Upgrade of the CMS Level-1 Trigger”, [CERN-LHCC-2020-004; CMS-TDR-021](https://cds.cern.ch/record/2714892?ln=en) 
+1.	S. Chatrchyan et al. (CMS Collaboration), “Development of the CMS detector for the CERN LHC Run 3”, [Journal of Instrumentation, 3, S08004 (2008)](https://doi.org/10.1088/1748-0221/3/08/S08004)
+2. D. Acosta, A. Deiana, W. Ketchum, "Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems", [arXiv:2209.03794](https://arxiv.org/abs/2209.03794) (2022)
+3. D. Acosta, E. Barberis, N. Hurley, W. Li, O. Miguel Colin, D. Wood, X. Zuo, “The Potential of a TeV-Scale Muon-Ion Collider”, [Journal of Instrumentation, 18, P09025 (2023)](https://iopscience.iop.org/article/10.1088/1748-0221/18/09/P09025), [arXiv:2203.06258](https://arxiv.org/abs/2203.06258) (2022)
+4. D. Acosta and W. Li, “A Muon-Ion Collider at BNL: the future QCD frontier and path to a new energy frontier of muon-antimuon colliders”, [Nuclear Inst. and Methods in Physics Research A 1027 (2022) 166334](https://doi.org/10.1016/j.nima.2022.166334)
+5. A.M. Sirunyan et al. (CMS Collaboration), “Evidence for Higgs boson decay to a pair of muons”, [J. High Energy Phys. 01 (2021) 148](https://doi.org/10.1007/JHEP01(2021)148)
+6. A.M. Sirunyan et al. (CMS Collaboration), “Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV”, [Journal of Instrumentation, 15, P10017 (2020)](https://doi.org/10.1088/1748-0221/15/10/P10017)
+7. A.M. Sirunyan et al. (CMS Collaboration), “The Phase-2 Upgrade of the CMS Level-1 Trigger”, [CERN-LHCC-2020-004; CMS-TDR-021](https://cds.cern.ch/record/2714892?ln=en) 
 
 ## Physics Lectures
 1. [Introductory lectures on Einstein's theories of relativity](https://github.com/acostad/Lectures/blob/main/RelativityVideos.md)
