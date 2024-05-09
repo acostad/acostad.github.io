@@ -13,7 +13,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 ## Research Projects
 - Trigger and Data Acquisition systems
   - L1 Muon Trigger of CMS
-    - Endcap Muon Track-Finder [EMTF Upgrade Documentation](https://cms-emtf.docs.cern.ch/), [Older Documentation](https://github.com/jiafulow/emtf-resources-page)
+    - Endcap Muon Track-Finder [Upgrade Documentation](https://cms-emtf.docs.cern.ch/), [Older Documentation](https://github.com/jiafulow/emtf-resources-page)
 - Muon-Ion Collider concept
 
 ## Recent publications
