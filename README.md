@@ -33,6 +33,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 
 ## Instrumentation Lectures
 1. [Overview of Trigger and Data Acquisition systems](https://github.com/acostad/acostad.github.io/blob/main/TriggerOverviewLecture.pdf)
+2. [CMS Endcap Muon Trigger System Overview](https://github.com/acostad/acostad.github.io/blob/main/EMTFhardwareOverview-rev2022)
 
 ## Broader Activities & Outreach
 - [U.S. LHC Users Association](http://www.uslua.org/)
