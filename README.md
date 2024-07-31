@@ -17,7 +17,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - Muon-Ion Collider concept
 
 ## Recent publications
-1.	A. Hayrapetyan et al. (CMS Collaboration), “Development of the CMS detector for the CERN LHC Run 3”, accepted by the Journal of Instrumentation, [arXiv:2309.05466](https://arxiv.org/abs/2309.05466) (2023) 
+1.	A. Hayrapetyan et al. (CMS Collaboration), “Development of the CMS detector for the CERN LHC Run 3”, [Journal of Instrumentation, 19, P05064 (2024)](https://iopscience.iop.org/article/10.1088/1748-0221/19/05/P05064), [arXiv:2309.05466](https://arxiv.org/abs/2309.05466) (2023) 
 2. D. Acosta, A. Deiana, W. Ketchum, "Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems", [arXiv:2209.03794](https://arxiv.org/abs/2209.03794) (2022)
 3. D. Acosta, E. Barberis, N. Hurley, W. Li, O. Miguel Colin, D. Wood, X. Zuo, “The Potential of a TeV-Scale Muon-Ion Collider”, [Journal of Instrumentation, 18, P09025 (2023)](https://iopscience.iop.org/article/10.1088/1748-0221/18/09/P09025), [arXiv:2203.06258](https://arxiv.org/abs/2203.06258) (2022)
 4. D. Acosta and W. Li, “A Muon-Ion Collider at BNL: the future QCD frontier and path to a new energy frontier of muon-antimuon colliders”, [Nuclear Inst. and Methods in Physics Research A 1027 (2022) 166334](https://doi.org/10.1016/j.nima.2022.166334)
