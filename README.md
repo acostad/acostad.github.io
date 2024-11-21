@@ -18,7 +18,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 
 ## Recent publications
 1. We have just published our outreach article in the leading science communication publication, Scientia:
-   -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) 
+   -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) (2024)
 3. A. Hayrapetyan et al. (CMS Collaboration), "Performance of the CMS high-level trigger during LHC Run 2", [accepted by Journal of Instrumentation], [arXiv:2410.17038](https://arxiv.org/abs/2410.17038) (2024)
 4.	A. Hayrapetyan et al. (CMS Collaboration), “Development of the CMS detector for the CERN LHC Run 3”, [Journal of Instrumentation, 19, P05064 (2024)](https://iopscience.iop.org/article/10.1088/1748-0221/19/05/P05064), [arXiv:2309.05466](https://arxiv.org/abs/2309.05466) (2023) 
 5. D. Acosta, A. Deiana, W. Ketchum, "Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems", [arXiv:2209.03794](https://arxiv.org/abs/2209.03794) (2022)
