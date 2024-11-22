@@ -5,6 +5,8 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - [Curriculum Vitae](Acosta-CV-2.pdf)
 
 ## News
+- We have just published our outreach article in the leading science communication publication, Scientia:
+   -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) (2024)
 - [The 1st Workshop on the Muon-Ion Collider, Dec. 13-15, Rice University](https://muic2023.rice.edu/)
 - [Advice on applying to graduate programs in physics](https://github.com/acostad/acostad.github.io/blob/main/GradSchoolApps.md)
 - Presentation on the muon-ion collider at [BNL/Stony Brook virtual workshop](https://indico.bnl.gov/event/17909/contributions/75309/attachments/46878/79462/MuIC-BNL-Acosta.pdf)
@@ -17,8 +19,6 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - Muon-Ion Collider concept
 
 ## Recent publications
-1. We have just published our outreach article in the leading science communication publication, Scientia:
-   -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) (2024)
 3. A. Hayrapetyan et al. (CMS Collaboration), "Performance of the CMS high-level trigger during LHC Run 2", [Journal of Instrumentation, 19, P11021 (2024)](http://dx.doi.org/10.1088/1748-0221/19/11/P11021), [arXiv:2410.17038](https://arxiv.org/abs/2410.17038) (2024)
 4.	A. Hayrapetyan et al. (CMS Collaboration), “Development of the CMS detector for the CERN LHC Run 3”, [Journal of Instrumentation, 19, P05064 (2024)](https://iopscience.iop.org/article/10.1088/1748-0221/19/05/P05064), [arXiv:2309.05466](https://arxiv.org/abs/2309.05466) (2023) 
 5. D. Acosta, A. Deiana, W. Ketchum, "Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems", [arXiv:2209.03794](https://arxiv.org/abs/2209.03794) (2022)
