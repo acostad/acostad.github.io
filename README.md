@@ -4,6 +4,9 @@
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) as well on future collider facilities.
 - [Curriculum Vitae](Acosta-CV-2.pdf)
 
+## Announcements
+- [Open positions for Postdoctoral Associates to join the Rice experimental high energy physics group](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4365/?utm_medium=jobshare&utm_source=External+Job+Share)
+  
 ## News
 - We have just published our outreach article in the leading science communication publication, Scientia:
    -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) (2024)
