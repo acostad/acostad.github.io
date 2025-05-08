@@ -11,7 +11,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - We are hosting the [2025 US CMS Annual Collaboration Meeting](https://indico.cern.ch/event/1499327/) on campus May 21-23, 2025! 
 - We have just published our outreach article in the leading science communication publication, Scientia:
    -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) (2024)
-- [The 1st Workshop on the Muon-Ion Collider, Dec. 13-15, Rice University](https://muic2023.rice.edu/)
+- [The 1st Workshop on the Muon-Ion Collider, Dec. 13-15, 2023, Rice University](https://muic2023.rice.edu/)
 - [Advice on applying to graduate programs in physics](https://github.com/acostad/acostad.github.io/blob/main/GradSchoolApps.md)
 - Presentation on the muon-ion collider at [BNL/Stony Brook virtual workshop](https://indico.bnl.gov/event/17909/contributions/75309/attachments/46878/79462/MuIC-BNL-Acosta.pdf)
 - Presented the muon-ion collider concept at the [DIS 2022](https://indico.cern.ch/event/1072533/) conference in Santiago de Compostela, Spain (May 2022). [Presentation](https://indico.cern.ch/event/1072533/contributions/4779228/attachments/2435658/4171607/DIS-MuIC-Acosta2.pdf) 
