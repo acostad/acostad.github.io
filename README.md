@@ -8,6 +8,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
   
 ## News
 - We are hosting the [2025 US CMS Annual Collaboration Meeting](https://indico.cern.ch/event/1499327/) on campus May 21-23, 2025!
+  - [Rice News feature](https://news.rice.edu/news/2025/top-us-physicists-gather-rice-national-particle-physics-meeting) 
 - CMS wins [2025 Breakthrough Prize in Fundamental Physics, with many Rice physicists listed](https://news.rice.edu/news/2025/oscars-science-breakthrough-prize-honors-rice-physicists?utm_medium=email&_hsmi=358837141&utm_content=358837141&utm_source=hs_email).
 - We have just published our outreach article in the leading science communication publication, Scientia:
    -  D.Acosta, "At the Frontier of High Energy Physics", [https://doi.org/10.33548/SCIENTIA1117](https://doi.org/10.33548/SCIENTIA1117) (2024)
