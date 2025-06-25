@@ -3,8 +3,6 @@
 ## Bio
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) as well on future collider facilities.
 - [Curriculum Vitae](Acosta-CV-2.pdf)
-
-## Announcements
   
 ## News
 - [Virtual tour](https://youtu.be/alw_7z5nwME) of the CMS control room and underground cavern 
