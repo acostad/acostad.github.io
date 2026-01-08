@@ -3,6 +3,8 @@
 ## Bio
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) as well on future collider facilities.
 - [Curriculum Vitae](Acosta-CV-2.pdf)
+- Awardee in 2025 Breakthrough Prize in Fundamental Physics that has been awarded to CMS and the other LHC collaborations<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/b24ca421-d1cb-41d4-aa9d-d955f1f87500" />
+
   
 ## News
 - [Virtual tour](https://youtu.be/alw_7z5nwME) of the CMS control room and underground cavern 
