@@ -25,7 +25,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 - Muon-Ion Collider concept
 
 ## Recent publications
-1.A. Hayrapetyan et al. (CMS Collaboration), "Measurement of the Higgs boson total decay width using the 𝐻→𝑊⁢𝑊→𝑒⁢𝜈⁢𝜇⁢𝜈 decay channel in proton-proton collisions at √𝑠 =13  TeV", [Phys. Rev. D 113, 092014 (2026)](https://doi.org/10.1103/rny9-zby1)
+1. A. Hayrapetyan et al. (CMS Collaboration), "Measurement of the Higgs boson total decay width using the 𝐻→𝑊⁢𝑊→𝑒⁢𝜈⁢𝜇⁢𝜈 decay channel in proton-proton collisions at √𝑠 =13  TeV", [Phys. Rev. D 113, 092014 (2026)](https://doi.org/10.1103/rny9-zby1)
 2. D. Acosta, "Physics perspectives, synergies, and challenges at a muon-ion collider", Muon4Future 2025,  [DOI](https://doi.org/10.5281/zenodo.19608499)
 3. A. Brinkerhoff et al., "Anomaly Detection for Automated Data Quality Monitoring in the CMS Detector", [EPJ Research Infrastruct. 10, 4 (2026)](https://doi.org/10.1007/s41781-025-00147-2)
 4. A. Hayrapetyan et al. (CMS Collaboration), "Performance of the CMS high-level trigger during LHC Run 2", [Journal of Instrumentation, 19, P11021 (2024)](http://dx.doi.org/10.1088/1748-0221/19/11/P11021), [arXiv:2410.17038](https://arxiv.org/abs/2410.17038) (2024)
