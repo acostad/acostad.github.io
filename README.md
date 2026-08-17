@@ -7,6 +7,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 
   
 ## News
+- [Physics & Astronomy undergrad overview](PA.pdf)
 - [Virtual tour](https://youtu.be/alw_7z5nwME) of the CMS control room and underground cavern 
 - We hosted the [2025 US CMS Annual Collaboration Meeting](https://indico.cern.ch/event/1499327/) on campus May 21-23, 2025!
   - [Rice News feature](https://news.rice.edu/news/2025/top-us-physicists-gather-rice-national-particle-physics-meeting) 
